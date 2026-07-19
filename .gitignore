@@ -1,0 +1,9 @@
+# MATLAB autosave and temp files
+*.asv
+*.m~
+*.mat
+slprj/
+
+# Local only
+drafts/
+.DS_Store
